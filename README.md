@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning unity , c#
 - 💞️ I’m looking to collaborate on unity
 - 📫 How to reach me amirreza.madah89@gmail.com
-- 😄 Pronouns: idk
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i seyd my name in how to reach me
 
 <!---
